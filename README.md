@@ -4,7 +4,7 @@ Post the Sudoku Daily Challenge with Timer
 Each Day with the Difficult Level and the Time Taken to complete the challenge
 
 
-Day      Difficult Level      Time(In Seconds)
+**Day      Difficult Level      Time(In Seconds)**
 
 
 Day 1        Easy                  263
