@@ -1,0 +1,5 @@
+DifficultLevel TimeInSeconds
+Easy 263
+Easy 203
+Medium 1275
+Easy 225
