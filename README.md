@@ -1,11 +1,9 @@
 # Sudoku-Challenge
 Post the Sudoku Daily Challenge with Timer
 
-Each Day with the Difficult Level and the Time Taken to complete the challenge
+Each Day with the Difficult Level and the Time Taken to complete the challenge<br />
 
-
-
-
+<br /><br />
 
 **Day      Difficult Level      Time(In Seconds)**
 
