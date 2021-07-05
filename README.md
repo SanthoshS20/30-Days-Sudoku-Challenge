@@ -7,7 +7,6 @@ Each Day with the Difficult Level and the Time Taken to complete the challenge<b
 
 **Day      Difficult Level      Time(In Seconds)**
 
-
 Day 1        Easy                  263
 
 
