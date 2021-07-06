@@ -19,13 +19,16 @@ Day 3        Medium                  1275
 Day 4        Easy                  225
 
 
+Day 5        Easy                  132
+
+
 Easy Level
 
-Easy Minimum Time Taken - 203
+Easy Minimum Time Taken - 132
 
 Easy Maximum Time Taken - 263
 
-Average Time Taken - 230
+Average Time Taken - 205
 
 Medium Level
 
