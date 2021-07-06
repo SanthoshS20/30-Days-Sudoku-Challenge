@@ -77,19 +77,24 @@ with open("README.md", "a") as f:
         f.write("\n"+key+"        ")
         f.write(DifficultLevelInEachDays[key]+"                  ")
         f.write(str(TimeTakenInDays[key]))
-        f.write("\n\n")
+        f.write("<br />")
     
+    f.write("<br />")
     if(easyCount!=0):
         f.write("\nEasy Level\n")
         f.write("\nEasy Minimum Time Taken - "+str(easyMin))
         f.write("\n\nEasy Maximum Time Taken - "+str(easyMax))
         f.write("\n\nAverage Time Taken - "+str(easyAverage//easyCount))
+    
+    f.write("<br />")
 
     if(mediumCount!=0):
         f.write("\n\nMedium Level\n")
         f.write("\nMedium Minimum Time Taken - "+str(mediumMin))
         f.write("\n\nMedium Maximum Time Taken - "+str(mediumMax))
         f.write("\n\nAverage Time Taken - "+str(mediumAverage//mediumCount))
+    
+    f.write("<br />")
 
     if(hardCount!=0):
         f.write("\n\nHard Level\n")
