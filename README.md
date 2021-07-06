@@ -5,20 +5,20 @@ Each Day with the Difficult Level and the Time Taken to complete the challenge<b
 
 <br />
 
-**Day      Difficult Level      Time(In Seconds)**
+**Day**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Difficult Level**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Time(In Seconds)**
 
-Day 1        Easy                  263<br />
-Day 2        Easy                  203<br />
-Day 3        Medium                  1275<br />
-Day 4        Easy                  225<br />
-Day 5        Easy                  132<br /><br />
+Day 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;263<br />
+Day 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;203<br />
+Day 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Medium&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1275<br />
+Day 4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;225<br />
+Day 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;132<br /><br /><br />
 Easy Level
 
 Easy Minimum Time Taken - 132
 
 Easy Maximum Time Taken - 263
 
-Average Time Taken - 205<br />
+Average Time Taken - 205<br /><br />
 
 Medium Level
 
@@ -26,4 +26,4 @@ Medium Minimum Time Taken - 1275
 
 Medium Maximum Time Taken - 1275
 
-Average Time Taken - 1275<br />
+Average Time Taken - 1275<br /><br />
