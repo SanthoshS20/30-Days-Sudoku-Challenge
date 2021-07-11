@@ -15,19 +15,20 @@ Day 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 Day 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;153<br />
 Day 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;220<br />
 Day 8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;176<br />
-Day 9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;172<br /><br /><br />
+Day 9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;172<br />
+Day 10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Medium&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;277<br /><br /><br />
 Easy Level
 
-Easy Minimum Time Taken - 132
+Minimum Time Taken - 132
 
-Easy Maximum Time Taken - 263
+Maximum Time Taken - 263
 
 Average Time Taken - 193<br /><br />
 
 Medium Level
 
-Medium Minimum Time Taken - 1275
+Minimum Time Taken - 277
 
-Medium Maximum Time Taken - 1275
+Maximum Time Taken - 1275
 
-Average Time Taken - 1275<br /><br />
+Average Time Taken - 776<br /><br />

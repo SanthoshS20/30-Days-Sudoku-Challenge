@@ -82,24 +82,24 @@ with open("README.md", "a") as f:
     f.write("<br /><br />")
     if(easyCount!=0):
         f.write("\nEasy Level\n")
-        f.write("\nEasy Minimum Time Taken - "+str(easyMin))
-        f.write("\n\nEasy Maximum Time Taken - "+str(easyMax))
+        f.write("\nMinimum Time Taken - "+str(easyMin))
+        f.write("\n\nMaximum Time Taken - "+str(easyMax))
         f.write("\n\nAverage Time Taken - "+str(easyAverage//easyCount))
     
     f.write("<br /><br />")
 
     if(mediumCount!=0):
         f.write("\n\nMedium Level\n")
-        f.write("\nMedium Minimum Time Taken - "+str(mediumMin))
-        f.write("\n\nMedium Maximum Time Taken - "+str(mediumMax))
+        f.write("\nMinimum Time Taken - "+str(mediumMin))
+        f.write("\n\nMaximum Time Taken - "+str(mediumMax))
         f.write("\n\nAverage Time Taken - "+str(mediumAverage//mediumCount))
     
     f.write("<br /><br />")
 
     if(hardCount!=0):
         f.write("\n\nHard Level\n")
-        f.write("\n\nHard Minimum Time Taken - "+str(hardMin))
-        f.write("\n\nHard Maximum Time Taken - "+str(hardMax))
+        f.write("\n\nMinimum Time Taken - "+str(hardMin))
+        f.write("\n\nMaximum Time Taken - "+str(hardMax))
         f.write("\n\nAverage Time Taken - "+str(hardAverage//hardCount))
 
 f.close()
