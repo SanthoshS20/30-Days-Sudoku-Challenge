@@ -9,3 +9,4 @@ Easy 220
 Easy 176
 Easy 172
 Medium 277
+Easy 295
