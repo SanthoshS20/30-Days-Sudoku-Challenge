@@ -17,3 +17,4 @@ Easy 301
 Medium 373
 Hard 812
 Easy 156
+Easy 149
