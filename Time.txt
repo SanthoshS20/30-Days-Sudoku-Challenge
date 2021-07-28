@@ -25,3 +25,4 @@ Easy 142
 Easy 272
 Easy 195
 Medium 286
+Easy 235
