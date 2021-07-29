@@ -33,7 +33,8 @@ Day 23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 Day 24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;272<br />
 Day 25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;195<br />
 Day 26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Medium&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;286<br />
-Day 27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;235<br /><br /><br />
+Day 27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;235<br />
+Day 28&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;969<br /><br /><br />
 Easy Level
 
 Minimum Time Taken - 132
@@ -55,6 +56,6 @@ Hard Level
 
 Minimum Time Taken - 812
 
-Maximum Time Taken - 812
+Maximum Time Taken - 969
 
-Average Time Taken - 812
+Average Time Taken - 890
